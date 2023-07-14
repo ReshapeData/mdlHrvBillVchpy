@@ -1,0 +1,11 @@
+setup.py
+mdlHrvBillVchpy/DataIntoERP.py
+mdlHrvBillVchpy/Main.py
+mdlHrvBillVchpy/OdsToStd.py
+mdlHrvBillVchpy/SrcToOds.py
+mdlHrvBillVchpy/__init__.py
+mdlHrvBillVchpy.egg-info/PKG-INFO
+mdlHrvBillVchpy.egg-info/SOURCES.txt
+mdlHrvBillVchpy.egg-info/dependency_links.txt
+mdlHrvBillVchpy.egg-info/requires.txt
+mdlHrvBillVchpy.egg-info/top_level.txt
